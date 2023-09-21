@@ -26,9 +26,9 @@ export const Home = () => {
 
             <section className='banner'>
                 <div className='text-box'>
-                    <div class="timeline">
-                        <div class="bullet"></div>
-                        <a aria-label="Go to next section" class="scroll-bottom scale-hover">
+                    <div className="timeline">
+                        <div className="bullet"></div>
+                        <a aria-label="Go to next section" className="scroll-bottom scale-hover">
                         </a>
                     </div>
                     <p>Hi, We are Hunter</p>
